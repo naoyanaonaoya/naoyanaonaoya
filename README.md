@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @naoyanaonaoya
-## 👀 I’m interested in programming
-##🌱 I’m currently learning programming
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+- 東京大学大学院工学系研究科機械工学専攻所属
+- 修士2年
+- 休学中（2022/05/01 ~ 2023/03/31）
+- フロントエンジニアに興味あり
+- atcode弱者
 
 <!---
 naoyanaonaoya/naoyanaonaoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
