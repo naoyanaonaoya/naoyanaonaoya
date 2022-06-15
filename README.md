@@ -11,5 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoyanaonaoya&theme=tokyonight&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoyanaonaoya)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoyanaonaoya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoyanaonaoya$thema=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
