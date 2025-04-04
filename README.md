@@ -3,6 +3,7 @@
 - 🎓 Graduated from the College of Engineering Systems at the University of Tsukuba with a Bachelor of Engineering.
 - 🎓 Completed a Master's degree in Mechanical Engineering at the Graduate School of Engineering, The University of Tokyo.
 - 🏢 Currently working at Cardio Flow Design Inc.
+- 💼 My main fields of interest are Computational Fluid Dynamics, Geometry, and Computer Graphics.
 
 
 ## Stats
