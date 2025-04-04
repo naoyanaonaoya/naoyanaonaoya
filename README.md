@@ -1,15 +1,16 @@
 # 👋 Hi, I’m @naoyanaonaoya
-- 東京大学大学院工学系研究科機械工学専攻所属
-- 修士2年
-- 休学中（2022/05/01 ~ 2023/03/31）
-- フロントエンジニアに興味あり
-- atcoder
 
+- 🎓 Graduated from the College of Engineering Systems at the University of Tsukuba with a Bachelor of Engineering.
+- 🎓 Completed a Master's degree in Mechanical Engineering at the Graduate School of Engineering, The University of Tokyo.
+- 🏢 Currently working at Cardio Flow Design Inc.
+
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoyanaonaoya&theme=gruvbox)
 <!---
 naoyanaonaoya/naoyanaonaoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoyanaonaoya&theme=tokyonight&show_icons=true)
